@@ -12,4 +12,4 @@
 </p>
 
 ## Database settings
-<img src="./databaseimage.png" width="80%">
+<img src="./databaseimage.png" width="100%">
